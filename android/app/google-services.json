@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "111776219660",
+    "project_id": "hackthonproject-70499",
+    "storage_bucket": "hackthonproject-70499.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111776219660:android:7ec45121d7a23f52d8a429",
+        "android_client_info": {
+          "package_name": "com.example.hacktonflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111776219660-2bgr5kqviarnd9c63d7jqsbv7c964497.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdcfDAb8lsonI12EXhYVaV2mtj06cyPcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111776219660-2bgr5kqviarnd9c63d7jqsbv7c964497.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
